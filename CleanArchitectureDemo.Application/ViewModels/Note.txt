@@ -1,0 +1,7 @@
+﻿A view model represents the data that you want to display on your view/page, whether it be used for static text or for input values (like textboxes and dropdown lists) that can be added to the database (or edited). 
+
+It is something different than your domain model. It is a model for the view. 
+
+In other words, it creates a mask for the domain models.
+
+For the time being we will get a list of Books from the database. 
